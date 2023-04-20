@@ -1,0 +1,46 @@
+body{
+    background-color: cyan;
+    text-align: center;
+}
+
+h1{
+    color: black;
+    font-size: 33px;
+    font-weight: bold;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    transition: 4s ease-out;
+    cursor: pointer;
+}
+
+h1:hover{
+    color: #ff7200;
+}
+
+h2{
+    color: black;
+    font-size: 22px;
+    font-weight: bold;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    transition: 4s ease-out;
+    cursor: pointer;
+}
+
+h2:hover{
+    color: #ff7200;
+}
+
+h3{
+    color: black;
+    font-size: 22px;
+    font-weight: bold;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    transition: 4s ease-out;
+    cursor: pointer;
+}
+
+h3:hover{
+    color: #ff7200;
+}
